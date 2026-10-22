@@ -4,3 +4,4 @@ dist
 .env.local
 extract.cjs
 step*.txt
+compress_assets.ps1
