@@ -1,6 +1,7 @@
 import { createClient } from '@supabase/supabase-js';
 import { newsUpdates, announcements as fallbackAnnouncements, galleryItems as fallbackGallery } from '../data';
 import { schoolConfig } from '../schoolConfig';
+import { compressImage } from './imageCompressor';
 
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || '';
 const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || '';
@@ -218,13 +219,16 @@ export async function uploadMedia(file, bucket = 'school-media') {
     throw new Error('Supabase belum aktif. Tidak dapat mengunggah file.');
   }
 
-  const fileExt = file.name.split('.').pop();
+  // Kompresi otomatis file gambar sebelum diunggah
+  const processedFile = await compressImage(file);
+
+  const fileExt = processedFile.name.split('.').pop();
   const fileName = `${Date.now()}-${Math.random().toString(36).substring(2, 9)}.${fileExt}`;
   const filePath = `uploads/${fileName}`;
 
   const { error: uploadError } = await supabase.storage
     .from(bucket)
-    .upload(filePath, file, { cacheControl: '3600', upsert: false });
+    .upload(filePath, processedFile, { cacheControl: '3600', upsert: false });
 
   if (uploadError) {
     throw uploadError;

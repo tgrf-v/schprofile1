@@ -214,7 +214,7 @@ export default function AdminGallery({ gallery, onRefresh }) {
                   <div className="flex items-center gap-3">
                     <label className="inline-flex items-center gap-2 bg-white border border-gray-300 hover:bg-gray-50 px-3.5 py-1.5 text-xs font-semibold uppercase tracking-wider text-gray-700 cursor-pointer">
                       <Upload className="w-3.5 h-3.5" />
-                      <span>{uploadingImage ? 'Mengunggah...' : 'Pilih File'}</span>
+                      <span>{uploadingImage ? 'Mengompresi & Mengunggah...' : 'Pilih File'}</span>
                       <input
                         type="file"
                         accept="image/*"
@@ -229,6 +229,9 @@ export default function AdminGallery({ gallery, onRefresh }) {
                       </span>
                     )}
                   </div>
+                  <p className="text-[11px] text-gray-500">
+                    Foto otomatis dikompresi sebelum diunggah agar hemat bandwidth dan cepat dimuat.
+                  </p>
                 </div>
               </div>
 
