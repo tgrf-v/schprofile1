@@ -49,7 +49,7 @@ export async function fetchArticles() {
     return newsUpdates;
   }
   try {
-    const slug = schoolConfig.slug || 'al-izzah';
+    const slug = schoolConfig.slug || 'nusantara-cendekia';
     const { data, error } = await supabase
       .from('articles')
       .select('*')
@@ -70,7 +70,7 @@ export async function createArticle(articleData) {
     throw new Error('Supabase belum aktif. Tidak dapat menyimpan ke database.');
   }
   const payload = {
-    school_slug: schoolConfig.slug || 'al-izzah',
+    school_slug: schoolConfig.slug || 'nusantara-cendekia',
     ...articleData,
   };
   return await supabase.from('articles').insert([payload]).select().single();
@@ -98,7 +98,7 @@ export async function fetchAnnouncements() {
     return fallbackAnnouncements;
   }
   try {
-    const slug = schoolConfig.slug || 'al-izzah';
+    const slug = schoolConfig.slug || 'nusantara-cendekia';
     const { data, error } = await supabase
       .from('announcements')
       .select('*')
@@ -119,7 +119,7 @@ export async function createAnnouncement(data) {
     throw new Error('Supabase belum aktif.');
   }
   const payload = {
-    school_slug: schoolConfig.slug || 'al-izzah',
+    school_slug: schoolConfig.slug || 'nusantara-cendekia',
     ...data,
   };
   return await supabase.from('announcements').insert([payload]).select().single();
@@ -147,7 +147,7 @@ export async function fetchGallery() {
     return fallbackGallery;
   }
   try {
-    const slug = schoolConfig.slug || 'al-izzah';
+    const slug = schoolConfig.slug || 'nusantara-cendekia';
     const { data, error } = await supabase
       .from('galleries')
       .select('*')
@@ -194,7 +194,7 @@ export async function createGalleryItem(data) {
     throw new Error('Supabase belum aktif.');
   }
   const payload = {
-    school_slug: schoolConfig.slug || 'al-izzah',
+    school_slug: schoolConfig.slug || 'nusantara-cendekia',
     title: data.title,
     category: data.category,
     date: data.date,
@@ -237,3 +237,4 @@ export async function uploadMedia(file, bucket = 'school-media') {
   const { data } = supabase.storage.from(bucket).getPublicUrl(filePath);
   return data.publicUrl;
 }
+

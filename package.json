@@ -1,5 +1,5 @@
 {
-  "name": "alizzah-school-clone",
+  "name": "nusantara-cendekia-school",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -27,3 +27,4 @@
     "wrangler": "^4.151.3"
   }
 }
+

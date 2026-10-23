@@ -6,7 +6,7 @@ import { schoolConfig as baseConfig } from './config/school.config';
 
 export const schoolConfig = {
   ...baseConfig,
-  slug: baseConfig.identity.slug || 'al-izzah',
+  slug: baseConfig.identity.slug || 'nusantara-cendekia',
   // Alias untuk kompatibilitas properti lama
   name: baseConfig.identity.name,
   shortName: baseConfig.identity.shortName,
@@ -25,7 +25,7 @@ export const schoolConfig = {
     instagram: baseConfig.socialMedia.instagram,
     youtube: baseConfig.socialMedia.youtube,
     twitter: baseConfig.socialMedia.tiktok,
-    instagramHandle: '@' + (baseConfig.socialMedia.instagram?.split('/').filter(Boolean).pop() || 'sekolah'),
+    instagramHandle: '@' + (baseConfig.socialMedia.instagram?.split('/').filter(Boolean).pop() || 'nusantaracendekia'),
     youtubeChannel: baseConfig.identity.shortName,
   },
   kepsek: {
