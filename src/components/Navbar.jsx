@@ -166,7 +166,7 @@ export default function Navbar() {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3 group">
               <img
-                src="/assets/logo.png"
+                src={isTransparent ? "/assets/logo_white.png" : "/assets/logo.png"}
                 alt="Logo SMA Nusantara Cendekia"
                 className="h-12 w-auto max-w-[220px] sm:max-w-[270px] object-contain transition-transform group-hover:scale-102"
                 onError={(e) => {
@@ -175,8 +175,8 @@ export default function Navbar() {
                 }}
               />
               <div className="hidden items-center gap-2.5">
-                <div className="w-10 h-10 border border-[#1b5f63] bg-[#1b5f63] flex items-center justify-center text-white font-bold text-lg font-philosopher">
-                  IS
+                <div className={`w-10 h-10 border flex items-center justify-center font-bold text-lg font-philosopher ${isTransparent ? "border-white text-white bg-white/10" : "border-[#1b5f63] bg-[#1b5f63] text-white"}`}>
+                  NC
                 </div>
                 <div>
                   <h1
@@ -323,4 +323,5 @@ export default function Navbar() {
     </div>
   );
 }
+
 
