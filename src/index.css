@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary-teal: #1b5f63;
+    --dark-teal: #144246;
+    --accent-gold: #f8b500;
+  }
+
+  /* Default sharp 0 border-radius across elements */
+  *,
+  *::before,
+  *::after {
+    border-radius: 0;
+  }
+
+  /* Allow circular elements explicitly requested (floating buttons, social icons) */
+  .rounded-full {
+    border-radius: 9999px !important;
+  }
+}
+
+.font-philosopher {
+  font-family: 'Philosopher', Georgia, serif;
+}
+
+.font-maven {
+  font-family: 'Maven Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Custom smooth transitions */
+.transition-smooth {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
