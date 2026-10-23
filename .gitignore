@@ -1,7 +1,18 @@
+# Dependencies & Build
 node_modules
 dist
 .wrangler
+
+# Environment Variables & Secrets
+.env
 .env.local
+.env.*.local
+
+# Internal Guides & Pitching Docs
+PANDUAN_*.md
+STRATEGI_*.md
+
+# Temporary & Helper Scripts
 extract.cjs
 step*.txt
 compress_assets.ps1
