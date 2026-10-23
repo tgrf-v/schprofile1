@@ -51,10 +51,11 @@ export const schoolConfig = {
 
   // 4. MEDIA SOSIAL RESMI
   socialMedia: {
-    instagram: "https://instagram.com/nusantaracendekia",
-    facebook: "https://facebook.com/nusantaracendekia",
-    youtube: "https://youtube.com/@nusantaracendekia",
-    tiktok: "https://tiktok.com/@nusantaracendekia",
+    instagram: "https://instagram.com",
+    facebook: "https://facebook.com",
+    youtube: "https://youtube.com",
+    tiktok: "https://tiktok.com",
+    x: "https://x.com",
   },
 
   // 5. PIMPINAN & SAMBUTAN RESMI
@@ -151,3 +152,4 @@ export const schoolConfig = {
     enableGallery: true,
   },
 };
+

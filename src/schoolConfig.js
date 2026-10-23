@@ -24,8 +24,9 @@ export const schoolConfig = {
     facebook: baseConfig.socialMedia.facebook,
     instagram: baseConfig.socialMedia.instagram,
     youtube: baseConfig.socialMedia.youtube,
-    twitter: baseConfig.socialMedia.tiktok,
-    instagramHandle: '@' + (baseConfig.socialMedia.instagram?.split('/').filter(Boolean).pop() || 'nusantaracendekia'),
+    twitter: baseConfig.socialMedia.x || "https://x.com",
+    tiktok: baseConfig.socialMedia.tiktok,
+    instagramHandle: '@nusantaracendekia',
     youtubeChannel: baseConfig.identity.shortName,
   },
   kepsek: {
