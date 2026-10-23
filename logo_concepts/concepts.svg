@@ -1,0 +1,297 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="840" viewBox="0 0 1600 840"><rect width="1600" height="840" fill="#f7f7f4"/><text x="60" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#161616">SMA Nusantara Cendekia — Konsep Identitas Visual Logo</text><text x="60" y="116" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#6b6b6b">Concepts for review — pick a direction (or tell me what you like in each).</text><rect x="60" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#161616" stroke-width="2"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Shield Ring -->
+  <path d="M 128 16 C 180 16 224 48 224 96 C 224 168 152 224 128 240 C 104 224 32 168 32 96 C 32 48 76 16 128 16 Z" fill="none" stroke="#1b5f63" stroke-width="12" stroke-linejoin="round" />
+  
+  <!-- Open Book Base -->
+  <!-- Left Page -->
+  <path d="M 128 184 C 108 174 80 172 56 182 L 56 132 C 80 122 108 124 128 134 Z" fill="#1b5f63" />
+  <!-- Right Page -->
+  <path d="M 128 184 C 148 174 176 172 200 182 L 200 132 C 176 122 148 124 128 134 Z" fill="#1b5f63" />
+  
+  <!-- Central Spine Accent -->
+  <rect x="124" y="132" width="8" height="54" rx="4" fill="#d4a337" />
+
+  <!-- Rising Knowledge Torch / Flame -->
+  <!-- Center Flame -->
+  <path d="M 128 48 C 138 72 146 88 140 106 C 136 118 128 124 128 124 C 128 124 120 118 116 106 C 110 88 118 72 128 48 Z" fill="#d4a337" />
+  <!-- Left Flame Petal -->
+  <path d="M 112 76 C 118 88 118 98 110 110 C 102 120 92 120 92 120 C 92 120 96 108 102 98 C 106 90 108 82 112 76 Z" fill="#1b5f63" />
+  <!-- Right Flame Petal -->
+  <path d="M 144 76 C 138 88 138 98 146 110 C 154 120 164 120 164 120 C 164 120 160 108 154 98 C 150 90 148 82 144 76 Z" fill="#1b5f63" />
+
+  <!-- Star of Excellence at Top -->
+  <polygon points="128,24 131,31 138,32 133,37 134,44 128,40 122,44 123,37 118,32 125,31" fill="#d4a337" />
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Shield Ring -->
+  <path d="M 128 16 C 180 16 224 48 224 96 C 224 168 152 224 128 240 C 104 224 32 168 32 96 C 32 48 76 16 128 16 Z" fill="none" stroke="#1b5f63" stroke-width="12" stroke-linejoin="round" />
+  
+  <!-- Open Book Base -->
+  <!-- Left Page -->
+  <path d="M 128 184 C 108 174 80 172 56 182 L 56 132 C 80 122 108 124 128 134 Z" fill="#1b5f63" />
+  <!-- Right Page -->
+  <path d="M 128 184 C 148 174 176 172 200 182 L 200 132 C 176 122 148 124 128 134 Z" fill="#1b5f63" />
+  
+  <!-- Central Spine Accent -->
+  <rect x="124" y="132" width="8" height="54" rx="4" fill="#d4a337" />
+
+  <!-- Rising Knowledge Torch / Flame -->
+  <!-- Center Flame -->
+  <path d="M 128 48 C 138 72 146 88 140 106 C 136 118 128 124 128 124 C 128 124 120 118 116 106 C 110 88 118 72 128 48 Z" fill="#d4a337" />
+  <!-- Left Flame Petal -->
+  <path d="M 112 76 C 118 88 118 98 110 110 C 102 120 92 120 92 120 C 92 120 96 108 102 98 C 106 90 108 82 112 76 Z" fill="#1b5f63" />
+  <!-- Right Flame Petal -->
+  <path d="M 144 76 C 138 88 138 98 146 110 C 154 120 164 120 164 120 C 164 120 160 108 154 98 C 150 90 148 82 144 76 Z" fill="#1b5f63" />
+
+  <!-- Star of Excellence at Top -->
+  <polygon points="128,24 131,31 138,32 133,37 134,44 128,40 122,44 123,37 118,32 125,31" fill="#d4a337" />
+</svg>
+</g><text x="122" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="180" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Shield Ring -->
+  <path d="M 128 16 C 180 16 224 48 224 96 C 224 168 152 224 128 240 C 104 224 32 168 32 96 C 32 48 76 16 128 16 Z" fill="none" stroke="#1b5f63" stroke-width="12" stroke-linejoin="round" />
+  
+  <!-- Open Book Base -->
+  <!-- Left Page -->
+  <path d="M 128 184 C 108 174 80 172 56 182 L 56 132 C 80 122 108 124 128 134 Z" fill="#1b5f63" />
+  <!-- Right Page -->
+  <path d="M 128 184 C 148 174 176 172 200 182 L 200 132 C 176 122 148 124 128 134 Z" fill="#1b5f63" />
+  
+  <!-- Central Spine Accent -->
+  <rect x="124" y="132" width="8" height="54" rx="4" fill="#d4a337" />
+
+  <!-- Rising Knowledge Torch / Flame -->
+  <!-- Center Flame -->
+  <path d="M 128 48 C 138 72 146 88 140 106 C 136 118 128 124 128 124 C 128 124 120 118 116 106 C 110 88 118 72 128 48 Z" fill="#d4a337" />
+  <!-- Left Flame Petal -->
+  <path d="M 112 76 C 118 88 118 98 110 110 C 102 120 92 120 92 120 C 92 120 96 108 102 98 C 106 90 108 82 112 76 Z" fill="#1b5f63" />
+  <!-- Right Flame Petal -->
+  <path d="M 144 76 C 138 88 138 98 146 110 C 154 120 164 120 164 120 C 164 120 160 108 154 98 C 150 90 148 82 144 76 Z" fill="#1b5f63" />
+
+  <!-- Star of Excellence at Top -->
+  <polygon points="128,24 131,31 138,32 133,37 134,44 128,40 122,44 123,37 118,32 125,31" fill="#d4a337" />
+</svg>
+</g><text x="196" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="238" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Shield Ring -->
+  <path d="M 128 16 C 180 16 224 48 224 96 C 224 168 152 224 128 240 C 104 224 32 168 32 96 C 32 48 76 16 128 16 Z" fill="none" stroke="#1b5f63" stroke-width="12" stroke-linejoin="round" />
+  
+  <!-- Open Book Base -->
+  <!-- Left Page -->
+  <path d="M 128 184 C 108 174 80 172 56 182 L 56 132 C 80 122 108 124 128 134 Z" fill="#1b5f63" />
+  <!-- Right Page -->
+  <path d="M 128 184 C 148 174 176 172 200 182 L 200 132 C 176 122 148 124 128 134 Z" fill="#1b5f63" />
+  
+  <!-- Central Spine Accent -->
+  <rect x="124" y="132" width="8" height="54" rx="4" fill="#d4a337" />
+
+  <!-- Rising Knowledge Torch / Flame -->
+  <!-- Center Flame -->
+  <path d="M 128 48 C 138 72 146 88 140 106 C 136 118 128 124 128 124 C 128 124 120 118 116 106 C 110 88 118 72 128 48 Z" fill="#d4a337" />
+  <!-- Left Flame Petal -->
+  <path d="M 112 76 C 118 88 118 98 110 110 C 102 120 92 120 92 120 C 92 120 96 108 102 98 C 106 90 108 82 112 76 Z" fill="#1b5f63" />
+  <!-- Right Flame Petal -->
+  <path d="M 144 76 C 138 88 138 98 146 110 C 154 120 164 120 164 120 C 164 120 160 108 154 98 C 150 90 148 82 144 76 Z" fill="#1b5f63" />
+
+  <!-- Star of Excellence at Top -->
+  <polygon points="128,24 131,31 138,32 133,37 134,44 128,40 122,44 123,37 118,32 125,31" fill="#d4a337" />
+</svg>
+</g><text x="246" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="90.0" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">A · Pelita Cendekia</text><text x="90.0" y="664" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#161616" letter-spacing="1.5">RECOMMENDED</text><text x="90.0" y="698" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Buku ilmu terbuka dengan suluh pelita emas</text><text x="90.0" y="724" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">dan bintang keunggulan di dalam perisai</text><text x="90.0" y="750" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">institusional.</text><rect x="562.667" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Circular Border with clean gap -->
+  <circle cx="128" cy="128" r="114" fill="none" stroke="#1b5f63" stroke-width="10" />
+  <circle cx="128" cy="128" r="102" fill="none" stroke="#d4a337" stroke-width="2" stroke-dasharray="4 6" />
+
+  <!-- Central Star of Nusantara (8-Pointed Star) -->
+  <g fill="#d4a337">
+    <!-- Star Points -->
+    <polygon points="128,42 138,72 168,72 144,90 154,120 128,102 102,120 112,90 88,72 118,72" />
+    <polygon points="128,54 135,76 156,76 139,90 146,110 128,96 110,110 117,90 100,76 121,76" fill="#b38622" />
+  </g>
+
+  <!-- Symmetrical Wisdom Quills / Laurels -->
+  <!-- Left Quill / Wing -->
+  <path d="M 64 130 C 58 160 80 196 124 206 C 104 196 90 178 86 156 C 84 144 88 134 94 126 C 82 128 72 134 64 130 Z" fill="#1b5f63" />
+  <path d="M 76 142 C 74 166 94 190 122 198 C 106 190 98 174 98 156 C 98 148 100 142 104 136 C 94 138 84 142 76 142 Z" fill="#24787d" />
+
+  <!-- Right Quill / Wing -->
+  <path d="M 192 130 C 198 160 176 196 132 206 C 152 196 166 178 170 156 C 172 144 168 134 162 126 C 174 128 184 134 192 130 Z" fill="#1b5f63" />
+  <path d="M 180 142 C 182 166 162 190 134 198 C 150 190 158 174 158 156 C 158 148 156 142 152 136 C 162 138 172 142 180 142 Z" fill="#24787d" />
+
+  <!-- Academic Ribbon / Foundation Base -->
+  <path d="M 88 206 Q 128 220 168 206 Q 128 214 88 206 Z" fill="#d4a337" />
+  <circle cx="128" cy="210" r="5" fill="#1b5f63" />
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Circular Border with clean gap -->
+  <circle cx="128" cy="128" r="114" fill="none" stroke="#1b5f63" stroke-width="10" />
+  <circle cx="128" cy="128" r="102" fill="none" stroke="#d4a337" stroke-width="2" stroke-dasharray="4 6" />
+
+  <!-- Central Star of Nusantara (8-Pointed Star) -->
+  <g fill="#d4a337">
+    <!-- Star Points -->
+    <polygon points="128,42 138,72 168,72 144,90 154,120 128,102 102,120 112,90 88,72 118,72" />
+    <polygon points="128,54 135,76 156,76 139,90 146,110 128,96 110,110 117,90 100,76 121,76" fill="#b38622" />
+  </g>
+
+  <!-- Symmetrical Wisdom Quills / Laurels -->
+  <!-- Left Quill / Wing -->
+  <path d="M 64 130 C 58 160 80 196 124 206 C 104 196 90 178 86 156 C 84 144 88 134 94 126 C 82 128 72 134 64 130 Z" fill="#1b5f63" />
+  <path d="M 76 142 C 74 166 94 190 122 198 C 106 190 98 174 98 156 C 98 148 100 142 104 136 C 94 138 84 142 76 142 Z" fill="#24787d" />
+
+  <!-- Right Quill / Wing -->
+  <path d="M 192 130 C 198 160 176 196 132 206 C 152 196 166 178 170 156 C 172 144 168 134 162 126 C 174 128 184 134 192 130 Z" fill="#1b5f63" />
+  <path d="M 180 142 C 182 166 162 190 134 198 C 150 190 158 174 158 156 C 158 148 156 142 152 136 C 162 138 172 142 180 142 Z" fill="#24787d" />
+
+  <!-- Academic Ribbon / Foundation Base -->
+  <path d="M 88 206 Q 128 220 168 206 Q 128 214 88 206 Z" fill="#d4a337" />
+  <circle cx="128" cy="210" r="5" fill="#1b5f63" />
+</svg>
+</g><text x="624.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="682.667" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Circular Border with clean gap -->
+  <circle cx="128" cy="128" r="114" fill="none" stroke="#1b5f63" stroke-width="10" />
+  <circle cx="128" cy="128" r="102" fill="none" stroke="#d4a337" stroke-width="2" stroke-dasharray="4 6" />
+
+  <!-- Central Star of Nusantara (8-Pointed Star) -->
+  <g fill="#d4a337">
+    <!-- Star Points -->
+    <polygon points="128,42 138,72 168,72 144,90 154,120 128,102 102,120 112,90 88,72 118,72" />
+    <polygon points="128,54 135,76 156,76 139,90 146,110 128,96 110,110 117,90 100,76 121,76" fill="#b38622" />
+  </g>
+
+  <!-- Symmetrical Wisdom Quills / Laurels -->
+  <!-- Left Quill / Wing -->
+  <path d="M 64 130 C 58 160 80 196 124 206 C 104 196 90 178 86 156 C 84 144 88 134 94 126 C 82 128 72 134 64 130 Z" fill="#1b5f63" />
+  <path d="M 76 142 C 74 166 94 190 122 198 C 106 190 98 174 98 156 C 98 148 100 142 104 136 C 94 138 84 142 76 142 Z" fill="#24787d" />
+
+  <!-- Right Quill / Wing -->
+  <path d="M 192 130 C 198 160 176 196 132 206 C 152 196 166 178 170 156 C 172 144 168 134 162 126 C 174 128 184 134 192 130 Z" fill="#1b5f63" />
+  <path d="M 180 142 C 182 166 162 190 134 198 C 150 190 158 174 158 156 C 158 148 156 142 152 136 C 162 138 172 142 180 142 Z" fill="#24787d" />
+
+  <!-- Academic Ribbon / Foundation Base -->
+  <path d="M 88 206 Q 128 220 168 206 Q 128 214 88 206 Z" fill="#d4a337" />
+  <circle cx="128" cy="210" r="5" fill="#1b5f63" />
+</svg>
+</g><text x="698.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="740.667" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer Circular Border with clean gap -->
+  <circle cx="128" cy="128" r="114" fill="none" stroke="#1b5f63" stroke-width="10" />
+  <circle cx="128" cy="128" r="102" fill="none" stroke="#d4a337" stroke-width="2" stroke-dasharray="4 6" />
+
+  <!-- Central Star of Nusantara (8-Pointed Star) -->
+  <g fill="#d4a337">
+    <!-- Star Points -->
+    <polygon points="128,42 138,72 168,72 144,90 154,120 128,102 102,120 112,90 88,72 118,72" />
+    <polygon points="128,54 135,76 156,76 139,90 146,110 128,96 110,110 117,90 100,76 121,76" fill="#b38622" />
+  </g>
+
+  <!-- Symmetrical Wisdom Quills / Laurels -->
+  <!-- Left Quill / Wing -->
+  <path d="M 64 130 C 58 160 80 196 124 206 C 104 196 90 178 86 156 C 84 144 88 134 94 126 C 82 128 72 134 64 130 Z" fill="#1b5f63" />
+  <path d="M 76 142 C 74 166 94 190 122 198 C 106 190 98 174 98 156 C 98 148 100 142 104 136 C 94 138 84 142 76 142 Z" fill="#24787d" />
+
+  <!-- Right Quill / Wing -->
+  <path d="M 192 130 C 198 160 176 196 132 206 C 152 196 166 178 170 156 C 172 144 168 134 162 126 C 174 128 184 134 192 130 Z" fill="#1b5f63" />
+  <path d="M 180 142 C 182 166 162 190 134 198 C 150 190 158 174 158 156 C 158 148 156 142 152 136 C 162 138 172 142 180 142 Z" fill="#24787d" />
+
+  <!-- Academic Ribbon / Foundation Base -->
+  <path d="M 88 206 Q 128 220 168 206 Q 128 214 88 206 Z" fill="#d4a337" />
+  <circle cx="128" cy="210" r="5" fill="#1b5f63" />
+</svg>
+</g><text x="748.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="592.6666666666667" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">B · Bintang Nusantara</text><text x="592.6666666666667" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Medali segel lingkaran dengan bintang</text><text x="592.6666666666667" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">penuntun dan sepasang daun kebijaksanaan</text><text x="592.6666666666667" y="722" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">simetris.</text><rect x="1065.33" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- Solid Shield Container -->
+  <path d="M 128 20 C 188 20 220 48 220 92 C 220 172 152 224 128 240 C 104 224 36 172 36 92 C 36 48 68 20 128 20 Z" fill="#1b5f63" />
+  
+  <!-- Inner Shield Border -->
+  <path d="M 128 32 C 178 32 206 56 206 94 C 206 162 148 208 128 224 C 108 208 50 162 50 94 C 50 56 78 32 128 32 Z" fill="none" stroke="#d4a337" stroke-width="4" />
+
+  <!-- Graduation Mortarboard Cap at Top Crest -->
+  <polygon points="128,52 166,66 128,80 90,66" fill="#ffffff" />
+  <polygon points="128,80 156,70 156,78 128,88 100,78 100,70" fill="#e2e8f0" />
+  <circle cx="128" cy="66" r="3" fill="#d4a337" />
+  <!-- Tassel -->
+  <path d="M 128 66 Q 166 68 168 84" fill="none" stroke="#d4a337" stroke-width="2.5" />
+  <circle cx="168" cy="86" r="2.5" fill="#d4a337" />
+
+  <!-- Monogram NC (Interlocking Bold Geometric Letterforms) -->
+  <!-- Letter N -->
+  <path d="M 82 108 L 98 108 L 126 156 L 126 108 L 140 108 L 140 178 L 124 178 L 96 130 L 96 178 L 82 178 Z" fill="#ffffff" />
+  
+  <!-- Letter C (Wraps around and overlaps N cleanly) -->
+  <path d="M 174 124 C 168 112 154 104 138 104 C 114 104 96 122 96 146 C 96 170 114 188 138 188 C 154 188 168 180 174 168 L 160 160 C 156 168 148 174 138 174 C 122 174 112 162 112 146 C 112 130 122 118 138 118 C 148 118 156 124 160 132 Z" fill="#d4a337" />
+
+  <!-- Base Laurel Leaves / Foundation Accent -->
+  <path d="M 112 202 Q 128 208 144 202" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <!-- Solid Shield Container -->
+  <path d="M 128 20 C 188 20 220 48 220 92 C 220 172 152 224 128 240 C 104 224 36 172 36 92 C 36 48 68 20 128 20 Z" fill="#1b5f63" />
+  
+  <!-- Inner Shield Border -->
+  <path d="M 128 32 C 178 32 206 56 206 94 C 206 162 148 208 128 224 C 108 208 50 162 50 94 C 50 56 78 32 128 32 Z" fill="none" stroke="#d4a337" stroke-width="4" />
+
+  <!-- Graduation Mortarboard Cap at Top Crest -->
+  <polygon points="128,52 166,66 128,80 90,66" fill="#ffffff" />
+  <polygon points="128,80 156,70 156,78 128,88 100,78 100,70" fill="#e2e8f0" />
+  <circle cx="128" cy="66" r="3" fill="#d4a337" />
+  <!-- Tassel -->
+  <path d="M 128 66 Q 166 68 168 84" fill="none" stroke="#d4a337" stroke-width="2.5" />
+  <circle cx="168" cy="86" r="2.5" fill="#d4a337" />
+
+  <!-- Monogram NC (Interlocking Bold Geometric Letterforms) -->
+  <!-- Letter N -->
+  <path d="M 82 108 L 98 108 L 126 156 L 126 108 L 140 108 L 140 178 L 124 178 L 96 130 L 96 178 L 82 178 Z" fill="#ffffff" />
+  
+  <!-- Letter C (Wraps around and overlaps N cleanly) -->
+  <path d="M 174 124 C 168 112 154 104 138 104 C 114 104 96 122 96 146 C 96 170 114 188 138 188 C 154 188 168 180 174 168 L 160 160 C 156 168 148 174 138 174 C 122 174 112 162 112 146 C 112 130 122 118 138 118 C 148 118 156 124 160 132 Z" fill="#d4a337" />
+
+  <!-- Base Laurel Leaves / Foundation Accent -->
+  <path d="M 112 202 Q 128 208 144 202" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
+</g><text x="1127.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1185.33" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <!-- Solid Shield Container -->
+  <path d="M 128 20 C 188 20 220 48 220 92 C 220 172 152 224 128 240 C 104 224 36 172 36 92 C 36 48 68 20 128 20 Z" fill="#1b5f63" />
+  
+  <!-- Inner Shield Border -->
+  <path d="M 128 32 C 178 32 206 56 206 94 C 206 162 148 208 128 224 C 108 208 50 162 50 94 C 50 56 78 32 128 32 Z" fill="none" stroke="#d4a337" stroke-width="4" />
+
+  <!-- Graduation Mortarboard Cap at Top Crest -->
+  <polygon points="128,52 166,66 128,80 90,66" fill="#ffffff" />
+  <polygon points="128,80 156,70 156,78 128,88 100,78 100,70" fill="#e2e8f0" />
+  <circle cx="128" cy="66" r="3" fill="#d4a337" />
+  <!-- Tassel -->
+  <path d="M 128 66 Q 166 68 168 84" fill="none" stroke="#d4a337" stroke-width="2.5" />
+  <circle cx="168" cy="86" r="2.5" fill="#d4a337" />
+
+  <!-- Monogram NC (Interlocking Bold Geometric Letterforms) -->
+  <!-- Letter N -->
+  <path d="M 82 108 L 98 108 L 126 156 L 126 108 L 140 108 L 140 178 L 124 178 L 96 130 L 96 178 L 82 178 Z" fill="#ffffff" />
+  
+  <!-- Letter C (Wraps around and overlaps N cleanly) -->
+  <path d="M 174 124 C 168 112 154 104 138 104 C 114 104 96 122 96 146 C 96 170 114 188 138 188 C 154 188 168 180 174 168 L 160 160 C 156 168 148 174 138 174 C 122 174 112 162 112 146 C 112 130 122 118 138 118 C 148 118 156 124 160 132 Z" fill="#d4a337" />
+
+  <!-- Base Laurel Leaves / Foundation Accent -->
+  <path d="M 112 202 Q 128 208 144 202" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
+</g><text x="1201.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1243.33" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <!-- Solid Shield Container -->
+  <path d="M 128 20 C 188 20 220 48 220 92 C 220 172 152 224 128 240 C 104 224 36 172 36 92 C 36 48 68 20 128 20 Z" fill="#1b5f63" />
+  
+  <!-- Inner Shield Border -->
+  <path d="M 128 32 C 178 32 206 56 206 94 C 206 162 148 208 128 224 C 108 208 50 162 50 94 C 50 56 78 32 128 32 Z" fill="none" stroke="#d4a337" stroke-width="4" />
+
+  <!-- Graduation Mortarboard Cap at Top Crest -->
+  <polygon points="128,52 166,66 128,80 90,66" fill="#ffffff" />
+  <polygon points="128,80 156,70 156,78 128,88 100,78 100,70" fill="#e2e8f0" />
+  <circle cx="128" cy="66" r="3" fill="#d4a337" />
+  <!-- Tassel -->
+  <path d="M 128 66 Q 166 68 168 84" fill="none" stroke="#d4a337" stroke-width="2.5" />
+  <circle cx="168" cy="86" r="2.5" fill="#d4a337" />
+
+  <!-- Monogram NC (Interlocking Bold Geometric Letterforms) -->
+  <!-- Letter N -->
+  <path d="M 82 108 L 98 108 L 126 156 L 126 108 L 140 108 L 140 178 L 124 178 L 96 130 L 96 178 L 82 178 Z" fill="#ffffff" />
+  
+  <!-- Letter C (Wraps around and overlaps N cleanly) -->
+  <path d="M 174 124 C 168 112 154 104 138 104 C 114 104 96 122 96 146 C 96 170 114 188 138 188 C 154 188 168 180 174 168 L 160 160 C 156 168 148 174 138 174 C 122 174 112 162 112 146 C 112 130 122 118 138 118 C 148 118 156 124 160 132 Z" fill="#d4a337" />
+
+  <!-- Base Laurel Leaves / Foundation Accent -->
+  <path d="M 112 202 Q 128 208 144 202" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
+</g><text x="1251.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="1095.3333333333335" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">C · Monogram NC</text><text x="1095.3333333333335" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Perisai heraldik modern dengan monogram</text><text x="1095.3333333333335" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">inisial NC dan topi toga akademis.</text></svg>

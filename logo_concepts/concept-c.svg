@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Solid Shield Container -->
+  <path d="M 128 20 C 188 20 220 48 220 92 C 220 172 152 224 128 240 C 104 224 36 172 36 92 C 36 48 68 20 128 20 Z" fill="#1b5f63" />
+  
+  <!-- Inner Shield Border -->
+  <path d="M 128 32 C 178 32 206 56 206 94 C 206 162 148 208 128 224 C 108 208 50 162 50 94 C 50 56 78 32 128 32 Z" fill="none" stroke="#d4a337" stroke-width="4" />
+
+  <!-- Graduation Mortarboard Cap at Top Crest -->
+  <polygon points="128,52 166,66 128,80 90,66" fill="#ffffff" />
+  <polygon points="128,80 156,70 156,78 128,88 100,78 100,70" fill="#e2e8f0" />
+  <circle cx="128" cy="66" r="3" fill="#d4a337" />
+  <!-- Tassel -->
+  <path d="M 128 66 Q 166 68 168 84" fill="none" stroke="#d4a337" stroke-width="2.5" />
+  <circle cx="168" cy="86" r="2.5" fill="#d4a337" />
+
+  <!-- Monogram NC (Interlocking Bold Geometric Letterforms) -->
+  <!-- Letter N -->
+  <path d="M 82 108 L 98 108 L 126 156 L 126 108 L 140 108 L 140 178 L 124 178 L 96 130 L 96 178 L 82 178 Z" fill="#ffffff" />
+  
+  <!-- Letter C (Wraps around and overlaps N cleanly) -->
+  <path d="M 174 124 C 168 112 154 104 138 104 C 114 104 96 122 96 146 C 96 170 114 188 138 188 C 154 188 168 180 174 168 L 160 160 C 156 168 148 174 138 174 C 122 174 112 162 112 146 C 112 130 122 118 138 118 C 148 118 156 124 160 132 Z" fill="#d4a337" />
+
+  <!-- Base Laurel Leaves / Foundation Accent -->
+  <path d="M 112 202 Q 128 208 144 202" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>

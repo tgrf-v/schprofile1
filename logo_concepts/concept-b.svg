@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Outer Circular Border with clean gap -->
+  <circle cx="128" cy="128" r="114" fill="none" stroke="#1b5f63" stroke-width="10" />
+  <circle cx="128" cy="128" r="102" fill="none" stroke="#d4a337" stroke-width="2" stroke-dasharray="4 6" />
+
+  <!-- Central Star of Nusantara (8-Pointed Star) -->
+  <g fill="#d4a337">
+    <!-- Star Points -->
+    <polygon points="128,42 138,72 168,72 144,90 154,120 128,102 102,120 112,90 88,72 118,72" />
+    <polygon points="128,54 135,76 156,76 139,90 146,110 128,96 110,110 117,90 100,76 121,76" fill="#b38622" />
+  </g>
+
+  <!-- Symmetrical Wisdom Quills / Laurels -->
+  <!-- Left Quill / Wing -->
+  <path d="M 64 130 C 58 160 80 196 124 206 C 104 196 90 178 86 156 C 84 144 88 134 94 126 C 82 128 72 134 64 130 Z" fill="#1b5f63" />
+  <path d="M 76 142 C 74 166 94 190 122 198 C 106 190 98 174 98 156 C 98 148 100 142 104 136 C 94 138 84 142 76 142 Z" fill="#24787d" />
+
+  <!-- Right Quill / Wing -->
+  <path d="M 192 130 C 198 160 176 196 132 206 C 152 196 166 178 170 156 C 172 144 168 134 162 126 C 174 128 184 134 192 130 Z" fill="#1b5f63" />
+  <path d="M 180 142 C 182 166 162 190 134 198 C 150 190 158 174 158 156 C 158 148 156 142 152 136 C 162 138 172 142 180 142 Z" fill="#24787d" />
+
+  <!-- Academic Ribbon / Foundation Base -->
+  <path d="M 88 206 Q 128 220 168 206 Q 128 214 88 206 Z" fill="#d4a337" />
+  <circle cx="128" cy="210" r="5" fill="#1b5f63" />
+</svg>

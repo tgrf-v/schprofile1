@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><g transform="translate(-12.42 -12.42) scale(1.097)">
+  <!-- Outer Shield Ring -->
+  <path d="M 128 16 C 180 16 224 48 224 96 C 224 168 152 224 128 240 C 104 224 32 168 32 96 C 32 48 76 16 128 16 Z" fill="none" stroke="#1b5f63" stroke-width="12" stroke-linejoin="round" />
+  
+  <!-- Open Book Base -->
+  <!-- Left Page -->
+  <path d="M 128 184 C 108 174 80 172 56 182 L 56 132 C 80 122 108 124 128 134 Z" fill="#1b5f63" />
+  <!-- Right Page -->
+  <path d="M 128 184 C 148 174 176 172 200 182 L 200 132 C 176 122 148 124 128 134 Z" fill="#1b5f63" />
+  
+  <!-- Central Spine Accent -->
+  <rect x="124" y="132" width="8" height="54" rx="4" fill="#d4a337" />
+
+  <!-- Rising Knowledge Torch / Flame -->
+  <!-- Center Flame -->
+  <path d="M 128 48 C 138 72 146 88 140 106 C 136 118 128 124 128 124 C 128 124 120 118 116 106 C 110 88 118 72 128 48 Z" fill="#d4a337" />
+  <!-- Left Flame Petal -->
+  <path d="M 112 76 C 118 88 118 98 110 110 C 102 120 92 120 92 120 C 92 120 96 108 102 98 C 106 90 108 82 112 76 Z" fill="#1b5f63" />
+  <!-- Right Flame Petal -->
+  <path d="M 144 76 C 138 88 138 98 146 110 C 154 120 164 120 164 120 C 164 120 160 108 154 98 C 150 90 148 82 144 76 Z" fill="#1b5f63" />
+
+  <!-- Star of Excellence at Top -->
+  <polygon points="128,24 131,31 138,32 133,37 134,44 128,40 122,44 123,37 118,32 125,31" fill="#d4a337" />
+</g></svg>
