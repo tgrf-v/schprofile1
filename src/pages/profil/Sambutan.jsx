@@ -13,7 +13,7 @@ export default function Sambutan() {
           <div className="text-center">
             <img
               src="/assets/kepsek.jpg"
-              alt="Dr. H. Ahmad Fauzi, M.Pd."
+              alt="Drs. Hendra Pratama, M.Ed."
               className="w-56 sm:w-64 h-72 sm:h-80 object-cover object-top shadow-xs"
             />
           </div>
@@ -51,7 +51,7 @@ export default function Sambutan() {
 
           {/* Tanda Tangan / Penutup Jabatan */}
           <div className="pt-8 border-t border-gray-100">
-            <h4 className="font-bold text-gray-900 text-base">Dr. H. Ahmad Fauzi, M.Pd.</h4>
+            <h4 className="font-bold text-gray-900 text-base">Drs. Hendra Pratama, M.Ed.</h4>
             <p className="text-sm text-gray-600">Kepala Sekolah</p>
           </div>
         </div>

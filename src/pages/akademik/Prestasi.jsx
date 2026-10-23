@@ -38,7 +38,7 @@ const achievementsList = [
     title: '1st Place & Best Speaker - National English & Arabic Parliamentary Debate',
     level: 'Nasional',
     year: '2023',
-    students: 'Delegasi Tim Debat Santri Al-Izzah',
+    students: 'Delegasi Tim Debat SMA Nusantara Cendekia',
     organizer: 'Universitas Indonesia (UI) Youth Forum',
     category: 'Bahasa & Orasi',
     badge: 'Best Speaker'
@@ -58,7 +58,7 @@ const achievementsList = [
     title: 'Juara 1 Turnamen Futsal Pelajar & Santri Se-Kota Batu & Malang Raya',
     level: 'Kota/Kabupaten',
     year: '2024',
-    students: 'Tim Futsal Putra Al-Izzah',
+    students: 'Tim Futsal Putra SMA Nusantara Cendekia',
     organizer: 'Dispora Kota Batu & Kemenag',
     category: 'Olahraga',
     badge: 'Juara 1'

@@ -27,7 +27,7 @@ export default function Sejarah() {
           </p>
 
           <p>
-            Pada awal berdirinya, lembaga ini dirancang dengan konsep pesantren terpadu (*Integrated Islamic Boarding School*)—sebuah ikhtiar sistem pendidikan yang memadukan kedalaman kurikulum kepesantrenan dengan keunggulan sains dan teknologi berstandar internasional. Seluruh santri dibimbing selama 24 jam dalam lingkungan belajar yang aman, kondusif, dan sarat dengan nilai-nilai keteladanan.
+            Pada awal berdirinya, lembaga ini dirancang dengan konsep sekolah berasrama terpadu—sebuah ikhtiar sistem pendidikan yang memadukan kedalaman pembinaan budi pekerti dengan keunggulan sains dan teknologi berstandar internasional. Seluruh santri dibimbing selama 24 jam dalam lingkungan belajar yang aman, kondusif, dan sarat dengan nilai-nilai keteladanan.
           </p>
 
           <p>
@@ -57,11 +57,11 @@ export default function Sejarah() {
               <tbody className="divide-y divide-gray-200">
                 <tr className="bg-gray-50/60">
                   <td className="px-4 py-3 font-semibold text-gray-700 w-1/3">Nama Resmi Sekolah</td>
-                  <td className="px-4 py-3 text-gray-900 font-medium">Al-Izzah International Islamic Boarding School</td>
+                  <td className="px-4 py-3 text-gray-900 font-medium">SMA Nusantara Cendekia</td>
                 </tr>
                 <tr>
                   <td className="px-4 py-3 font-semibold text-gray-700">Nomor Pokok Sekolah Nasional (NPSN)</td>
-                  <td className="px-4 py-3 text-gray-900 font-mono font-bold">20574892</td>
+                  <td className="px-4 py-3 text-gray-900 font-mono font-bold">69988776</td>
                 </tr>
                 <tr className="bg-gray-50/60">
                   <td className="px-4 py-3 font-semibold text-gray-700">Status Akreditasi</td>
@@ -77,11 +77,11 @@ export default function Sejarah() {
                 </tr>
                 <tr>
                   <td className="px-4 py-3 font-semibold text-gray-700">Penyelenggara</td>
-                  <td className="px-4 py-3 text-gray-900">Yayasan Bina Anak Bangsa Al-Izzah Batu</td>
+                  <td className="px-4 py-3 text-gray-900">Yayasan Pendidikan Nusantara Cendekia</td>
                 </tr>
                 <tr className="bg-gray-50/60">
                   <td className="px-4 py-3 font-semibold text-gray-700">Lokasi Kampus</td>
-                  <td className="px-4 py-3 text-gray-900">Jl. Indragiri Gg. 6, Sumberejo, Kec. Batu, Kota Batu, Jawa Timur</td>
+                  <td className="px-4 py-3 text-gray-900">Jl. Cendekia Raya No. 88, Oro-Oro Ombo, Kec. Batu, Kota Batu, Jawa Timur 65316</td>
                 </tr>
               </tbody>
             </table>
@@ -91,3 +91,4 @@ export default function Sejarah() {
     </ProfilLayout>
   );
 }
+

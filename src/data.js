@@ -37,11 +37,11 @@ export const heroQuickActions = [
 export const newsUpdates = [
   {
     id: 1,
-    title: 'Dari Almamater, Kembali untuk Almamater: Wakaf Alumni SMA Al Izzah Putri, Angkatan 14',
+    title: 'Dari Almamater, Kembali untuk Almamater: Sumbangan Buku Alumni SMA Nusantara Cendekia, Angkatan 14',
     date: '12 September 2024',
     category: 'Alumni & Prestasi',
     image: '/assets/news1.jpg',
-    excerpt: 'Wujud dedikasi dan cinta kepada almamater tercinta melalui program wakaf produktif oleh alumni santriwati angkatan 14.'
+    excerpt: 'Wujud dedikasi dan cinta kepada almamater tercinta melalui pengadaan referensi pustaka ilmiah oleh alumni angkatan 14.'
   },
   {
     id: 2,
@@ -53,7 +53,7 @@ export const newsUpdates = [
   },
   {
     id: 3,
-    title: 'Seleksi Masuk Gelombang 1 Santri Baru SMP & SMA Al-Izzah Batu',
+    title: 'Seleksi Masuk Gelombang 1 Siswa Baru SMA Nusantara Cendekia',
     date: '15 Agustus 2024',
     category: 'Berita',
     image: '/assets/news3.jpg',
@@ -194,14 +194,14 @@ export const testimonials = [
     id: 2,
     name: 'Muhammad Nashwan Hanafi',
     position: 'Internasional Islamic University of Islamabad, Pakistan',
-    quote: "Alhamdulillah, bersyukur sekali saya di didik di Al-Izzah, dilatih untuk siap dipimpin & memimpin, dilatih utk menjadi pemimpin yang berakhlak qur'ani, yang dimana ini sangat bermanfaat bagi saya ketika berada di dunia luar.",
+    quote: "Alhamdulillah, bersyukur sekali saya di didik di SMA Nusantara Cendekia, dilatih untuk siap dipimpin & memimpin, dilatih utk menjadi pemimpin yang berakhlak qur'ani, yang dimana ini sangat bermanfaat bagi saya ketika berada di dunia luar.",
     avatar: '/assets/testi2.jpg'
   },
   {
     id: 3,
     name: 'Emir Muhammad Firassiyan',
     position: 'STEI-K Institut Teknologi Bandung (ITB)',
-    quote: "6 tahun di Ma'had Al-Izzah Batu memberikan fondasi ruhiyah dan kedisiplinan akademis yang kokoh, mengantarkan saya berani bersaing dan berkontribusi di kampus teknik terbaik bangsa.",
+    quote: "6 tahun di SMA Nusantara Cendekia memberikan fondasi ruhiyah dan kedisiplinan akademis yang kokoh, mengantarkan saya berani bersaing dan berkontribusi di kampus teknik terbaik bangsa.",
     avatar: '/assets/testi3.jpg'
   }
 ];
@@ -209,7 +209,7 @@ export const testimonials = [
 export const teachers = [
   {
     id: 1,
-    name: 'Dr. H. Ahmad Fauzi, M.Pd.',
+    name: 'Drs. Hendra Pratama, M.Ed.',
     role: 'Kepala Sekolah',
     subject: 'Manajemen Pendidikan & Kepemimpinan',
     image: '/assets/kepsek.jpg'
@@ -365,3 +365,4 @@ export const galleryItems = [
       'Sesi praktikum teknologi informasi di laboratorium komputer berkecepatan tinggi. Santri dibekali pemahaman logika pemrograman, desain grafis digital, serta etika berinternet sehat guna menjawab tantangan era digital global.'
   },
 ];
+
