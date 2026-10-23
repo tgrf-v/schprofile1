@@ -35,7 +35,7 @@ export default function Footer() {
               <div className="flex items-center gap-2 mb-2">
                 <img
                   src="/assets/logo.png"
-                  alt="Al-Izzah Logo"
+                  alt="Logo SMA Nusantara Cendekia"
                   className="h-10 w-auto object-contain"
                   onError={(e) => {
                     e.target.style.display = 'none';
@@ -155,3 +155,4 @@ export default function Footer() {
     </>
   );
 }
+

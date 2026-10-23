@@ -167,7 +167,7 @@ export default function Navbar() {
             <Link to="/" className="flex items-center gap-3 group">
               <img
                 src="/assets/logo.png"
-                alt="Logo Sekolah"
+                alt="Logo SMA Nusantara Cendekia"
                 className="h-12 w-auto max-w-[220px] sm:max-w-[270px] object-contain transition-transform group-hover:scale-102"
                 onError={(e) => {
                   e.target.style.display = 'none';
@@ -184,14 +184,14 @@ export default function Navbar() {
                       isTransparent ? 'text-white' : 'text-[#1b5f63]'
                     }`}
                   >
-                    Al-Izzah School
+                    SMA Nusantara Cendekia
                   </h1>
                   <p
                     className={`text-[9px] font-medium tracking-wider uppercase ${
                       isTransparent ? 'text-emerald-200' : 'text-gray-500'
                     }`}
                   >
-                    International Islamic Boarding School
+                    Sekolah Berasrama Terpadu
                   </p>
                 </div>
               </div>
@@ -323,3 +323,4 @@ export default function Navbar() {
     </div>
   );
 }
+
