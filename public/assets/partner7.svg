@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Outer Arch Shield -->
+  <path d="M 100 16 C 148 16 176 42 176 90 L 176 160 C 176 174 156 186 100 186 C 44 186 24 174 24 160 L 24 90 C 24 42 52 16 100 16 Z" fill="#f0fdf4" stroke="#166534" stroke-width="6" />
+  
+  <!-- Ionic Temple Columns -->
+  <!-- Left Pillar -->
+  <rect x="52" y="70" width="14" height="66" fill="#166534" />
+  <rect x="48" y="64" width="22" height="8" rx="2" fill="#d4a337" />
+  <rect x="48" y="134" width="22" height="8" rx="2" fill="#d4a337" />
+  
+  <!-- Right Pillar -->
+  <rect x="134" y="70" width="14" height="66" fill="#166534" />
+  <rect x="130" y="64" width="22" height="8" rx="2" fill="#d4a337" />
+  <rect x="130" y="134" width="22" height="8" rx="2" fill="#d4a337" />
+  
+  <!-- Central Open Codex -->
+  <path d="M 100 114 C 88 106 74 106 66 112 L 66 84 C 74 78 88 78 100 84 Z" fill="#166534" />
+  <path d="M 100 114 C 112 106 126 106 134 112 L 134 84 C 126 78 112 78 100 84 Z" fill="#166534" />
+  <rect x="98.5" y="82" width="3" height="34" fill="#d4a337" />
+  
+  <!-- Apex Torch Flame -->
+  <path d="M 100 38 C 108 50 112 60 108 68 C 104 74 100 76 100 76 C 100 76 96 74 92 68 C 88 60 92 50 100 38 Z" fill="#d4a337" />
+  
+  <!-- Ribbon Badge -->
+  <rect x="70" y="150" width="60" height="18" rx="3" fill="#166534" />
+  <text x="100" y="163" font-family="'Inter', sans-serif" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">IPC</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Outer Shield -->
+  <path d="M 100 12 C 152 12 184 38 184 86 C 184 142 128 178 100 190 C 72 178 16 142 16 86 C 16 38 48 12 100 12 Z" fill="#faf5ff" stroke="#4338ca" stroke-width="6" stroke-linejoin="round" />
+  
+  <!-- Sacred Lotus Petals -->
+  <!-- Center Lotus Petal -->
+  <path d="M 100 52 C 114 74 118 96 100 122 C 82 96 86 74 100 52 Z" fill="#d97706" />
+  <!-- Left Inner Petal -->
+  <path d="M 88 72 C 72 86 68 106 88 124 C 94 106 94 88 88 72 Z" fill="#4338ca" />
+  <!-- Right Inner Petal -->
+  <path d="M 112 72 C 128 86 132 106 112 124 C 106 106 106 88 112 72 Z" fill="#4338ca" />
+  <!-- Left Outer Petal -->
+  <path d="M 68 92 C 50 104 52 122 78 128 C 76 114 80 102 68 92 Z" fill="#6366f1" />
+  <!-- Right Outer Petal -->
+  <path d="M 132 92 C 150 104 148 122 122 128 C 124 114 120 102 132 92 Z" fill="#6366f1" />
+  
+  <!-- Lotus Calyx Base -->
+  <path d="M 64 130 C 84 140 116 140 136 130 C 130 144 118 148 100 148 C 82 148 70 144 64 130 Z" fill="#4338ca" />
+  
+  <!-- Acronym -->
+  <rect x="70" y="154" width="60" height="18" rx="3" fill="#4338ca" />
+  <text x="100" y="167" font-family="'Inter', sans-serif" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">UPK</text>
+</svg>

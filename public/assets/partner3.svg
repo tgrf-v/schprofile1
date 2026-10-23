@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Circular Medal Background -->
+  <circle cx="100" cy="100" r="92" fill="#f0fdfa" stroke="#0f766e" stroke-width="6" />
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#0f766e" stroke-width="1.5" stroke-dasharray="3 3" />
+  
+  <!-- Laurel Leaves (Left Branch) -->
+  <g fill="#0f766e">
+    <path d="M 52 120 C 44 104 46 80 62 64 C 64 74 60 88 68 98 C 60 106 56 114 52 120 Z" />
+    <path d="M 68 64 C 62 52 68 40 82 34 C 80 44 76 54 82 62 Z" />
+    <!-- Laurel Leaves (Right Branch) -->
+    <path d="M 148 120 C 156 104 154 80 138 64 C 136 74 140 88 132 98 C 140 106 144 114 148 120 Z" />
+    <path d="M 132 64 C 138 52 132 40 118 34 C 120 44 124 54 118 62 Z" />
+  </g>
+  
+  <!-- Center Star of Guidance -->
+  <polygon points="100,48 108,72 134,72 113,88 121,112 100,96 79,112 87,88 66,72 92,72" fill="#eab308" stroke="#0f766e" stroke-width="2" stroke-linejoin="round" />
+  
+  <!-- Foundation Pedestal -->
+  <rect x="70" y="146" width="60" height="18" rx="4" fill="#0f766e" />
+  <text x="100" y="159" font-family="'Inter', sans-serif" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">UBP</text>
+</svg>

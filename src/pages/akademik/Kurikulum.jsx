@@ -101,8 +101,8 @@ export default function Kurikulum() {
                 <div className="w-12 h-1 bg-[#1b5f63] mt-3 mb-4" />
                 <div className="pt-2">
                   <img
-                    src="/assets/cambridge.png"
-                    alt="Cambridge Partner"
+                    src="/assets/partner5.png"
+                    alt="Mitra Kurikulum Internasional"
                     className="h-8 w-auto object-contain opacity-90"
                     onError={(e) => { e.currentTarget.style.display = 'none'; }}
                   />
@@ -264,3 +264,4 @@ export default function Kurikulum() {
     </AkademikLayout>
   );
 }
+

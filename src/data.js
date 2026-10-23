@@ -172,14 +172,14 @@ export const statistics = [
 ];
 
 export const partners = [
-  { name: 'Uludag University', logo: '/assets/uludag.png' },
-  { name: 'Universitas Negeri Malang', logo: '/assets/um.png' },
-  { name: 'Universitas Sebelas Maret', logo: '/assets/uns.png' },
-  { name: 'Universitas Airlangga', logo: '/assets/unair.png' },
-  { name: 'University Of Cambridge', logo: '/assets/cambridge.png' },
-  { name: 'Universitas Brawijaya', logo: '/assets/ub.png' },
-  { name: 'Universitas Gadjah Mada', logo: '/assets/ugm.png' },
-  { name: 'Universitas Indonesia', logo: '/assets/ui.png' },
+  { name: 'Universitas Cakrawala Buana', logo: '/assets/partner1.png' },
+  { name: 'Institut Sains & Teknologi Graha Nusantara', logo: '/assets/partner2.png' },
+  { name: 'Universitas Bintang Persada', logo: '/assets/partner3.png' },
+  { name: 'Universitas Padma Kencana', logo: '/assets/partner4.png' },
+  { name: 'Archipelago Global Academy', logo: '/assets/partner5.png' },
+  { name: 'Universitas Surya Medika', logo: '/assets/partner6.png' },
+  { name: 'Institut Pustaka Cendekia', logo: '/assets/partner7.png' },
+  { name: 'Continental University of Technology', logo: '/assets/partner8.png' },
 ];
 
 export const testimonials = [

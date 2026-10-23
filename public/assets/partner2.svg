@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Outer Cog / Gear Crest -->
+  <circle cx="100" cy="100" r="92" fill="#fff5f5" stroke="#991b1b" stroke-width="6" />
+  
+  <!-- Inner Shield -->
+  <path d="M 100 24 C 140 24 168 46 168 84 C 168 136 116 166 100 176 C 84 166 32 136 32 84 C 32 46 60 24 100 24 Z" fill="#ffffff" stroke="#991b1b" stroke-width="3" />
+  
+  <!-- Atomic Orbital Rings -->
+  <ellipse cx="100" cy="94" rx="48" ry="18" fill="none" stroke="#1e293b" stroke-width="2.5" transform="rotate(30 100 94)" />
+  <ellipse cx="100" cy="94" rx="48" ry="18" fill="none" stroke="#1e293b" stroke-width="2.5" transform="rotate(-30 100 94)" />
+  <ellipse cx="100" cy="94" rx="48" ry="18" fill="none" stroke="#991b1b" stroke-width="2.5" transform="rotate(90 100 94)" />
+  
+  <!-- Central Energy Core -->
+  <circle cx="100" cy="94" r="8" fill="#d4a337" stroke="#991b1b" stroke-width="2" />
+  
+  <!-- Acronym Ribbon -->
+  <rect x="62" y="142" width="76" height="20" rx="3" fill="#991b1b" />
+  <text x="100" y="156" font-family="'Inter', sans-serif" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">ISTGN</text>
+</svg>
